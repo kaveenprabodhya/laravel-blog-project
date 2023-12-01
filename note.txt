@@ -1,0 +1,3 @@
+update -> composer update nesbot/carbon  --ignore-platform-reqs
+
+uncomment pdo_mysql driver to use mysql
